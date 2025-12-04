@@ -1,0 +1,15 @@
+[33mcommit 33eab86334b7445524cf19547e6d340afbe1ecb1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Morris <underwater_forests@outlook.com>
+Date:   Wed Dec 3 21:39:28 2025 -0500
+
+    Finished Project
+    
+    Add two more recipe html pages
+
+[33mcommit b8090548db2290ffe2904000de17f637fb637422[m
+Author: Morris <underwater_forests@outlook.com>
+Date:   Wed Dec 3 09:37:17 2025 -0500
+
+    Start project
+    
+    add index file and recipe file with dish instructions
