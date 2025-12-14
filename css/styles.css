@@ -1,0 +1,35 @@
+/* *,
+::before,
+::after {
+    margin: 0;
+} */
+
+body {
+    background-color: yellowgreen;
+    color: black;
+    font-family: 'Brush Script MT', cursive;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+}
+
+ul {
+    font-size: 30px;
+    list-style: none; /* removes bullet points */
+}
+
+p {
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.home {
+    font-size: 40px;
+}
+
+.recipe-home {
+    text-align: center;
+}
